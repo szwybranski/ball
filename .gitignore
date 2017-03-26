@@ -1,5 +1,7 @@
+/.Python
 /Include/
 /Lib/
 /Scripts/
+/bin/
 /pip-selfcheck.json
 /tcl/
