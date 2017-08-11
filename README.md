@@ -8,7 +8,7 @@ My first Python game written using [pygame][pygame]!
 ./mypygame
 ```
 
-This will bootstrap and run the game. It should work on Windows, macOS and Linux (including [Raspbian][raspian]).
+This will bootstrap and run the game. It should work on Windows, macOS and Linux (including [Raspbian][raspbian]).
 
 ## Licence
 
