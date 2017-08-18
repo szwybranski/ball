@@ -10,7 +10,7 @@ My first Python game written using [pygame][pygame]!
 
 This will bootstrap and run the game. It should work on Windows, macOS and Linux (including [Raspbian][raspbian]).
 
-![Alt text](ball.png?raw=true "Ball screenshot")
+![Alt text](screenshot.jpg?raw=true "Ball screenshot")
 
 ## Licence
 
